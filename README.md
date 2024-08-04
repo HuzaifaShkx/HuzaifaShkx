@@ -2,7 +2,7 @@
 
 # Hi there, I'm Huzaifa! 👋
 
-![Huzaifa's Banner]([https://media.licdn.com/dms/image/D4D16AQFuYlZFXGrsxA/profile-displaybackgroundimage-shrink_350_1400/0/1722763479712?e=1728518400&v=beta&t=N24CBApxYNaqiaxqYlf4H1QsO4aQroMIl9mMs8XOsWA](https://imgur.com/a/uTtPBP0))
+![Huzaifa's Banner](https://imgur.com/1lTzGKc)
 
 Welcome to my GitHub profile! I'm passionate about Mobile App Development and have experience in Flutter Development along with Dart and Python. Here's a bit about me and what I do:
 
